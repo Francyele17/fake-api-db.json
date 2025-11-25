@@ -2,36 +2,44 @@
   "explicacaoPartePulmao1": [
     {
       "id": 1,
+      "imagem" : "assets/images/PartePulmaoBronquio.png", 
       "explicacaoPulmao": "Os brônquios são as duas ramificações principais da traqueia, cada uma conduzindo o ar para um dos pulmões (direito e esquerdo). Dentro dos pulmões, os brônquios se dividem em brônquios menores, chamados brônquios secundários e terciários, que distribuem o ar por todo o órgão. Os brônquios também são revestidos por muco e cílios, que ajudam a capturar impurezas e evitar que agentes nocivos cheguem às partes mais delicadas do pulmão."
     },
     {
       "id": 2,
+      "imagem" : "assets/images/PartePulmaoDireito.png", 
       "explicacaoPulmao": " O pulmão direito é o maior dos dois pulmões e está localizado na parte direita do tórax. Ele é dividido em três lobos: superior, médio e inferior. Essa divisão facilita a organização interna e a distribuição do ar. Sua função principal é realizar as trocas gasosas, ou seja, absorver o oxigênio que respiramos e liberar o gás carbônico que é produzido pelo corpo. O tamanho maior do pulmão direito ocorre porque ele não precisa dividir espaço com o coração, que está mais deslocado para o lado esquerdo."
     },
     {
       "id": 3,
+      "imagem" : "assets/images/PulmaoEsquerdo.png", 
       "explicacaoPulmao": "O pulmão esquerdo está localizado no lado esquerdo do tórax e é menor que o pulmão direito. Isso porque o coração ocupa parte do espaço no lado esquerdo do tórax, o que exige uma adaptação anatômica. Ele é dividido em dois lobos: o superior e o inferior. Assim como o pulmão direito, o pulmão esquerdo também tem a função de permitir as trocas gasosas entre o ar e o sangue, sendo igualmente importante, mesmo com um lobo a menos."
     },
     {
       "id": 4,
+      "imagem" : "assets/images/PulmaoTraqueia.png", 
       "explicacaoPulmao": "A traqueia é um tubo cartilaginoso que conecta a laringe aos brônquios. Ela é formada por anéis de cartilagem em forma de “C”, que mantêm o canal sempre aberto para a passagem do ar. Sua principal função é levar o ar inspirado até os pulmões e também auxiliar na filtragem de partículas e poeiras, já que é revestida por cílios e muco. Ela se divide ao final em dois brônquios principais, que conduzem o ar a cada pulmão."
     }
   ],
   "explicacaoPartePulmao2": [
      {
       "id": 5,
+       "imagem" : "assets/images/PulmaoLobos.png", 
       "explicacaoPulmao": "Os lobos são as divisões anatômicas dos pulmões. O pulmão direito tem três lobos (superior, médio e inferior), enquanto o esquerdo tem dois (superior e inferior). Essa divisão torna possível a organização funcional do pulmão, permitindo que cada lobo receba seu próprio suprimento de ar e sangue. Em algumas doenças, a separação por lobos permite que uma área afetada seja tratada ou retirada sem comprometer todo o órgão."
     },
     {
       "id": 6,
+      "imagem" : "assets/images/PulmaoBronquiolos.png", 
       "explicacaoPulmao": "Os bronquíolos são pequenos canais de ar que se originam dos brônquios. Eles são muito numerosos e estão espalhados por todo o tecido pulmonar. Sua principal função é levar o ar até os alvéolos pulmonares, onde ocorrem as trocas gasosas. Por serem estruturas finas e delicadas, os bronquíolos permitem que o ar chegue até as regiões mais profundas dos pulmões."
     },
     {
       "id": 7,
+      "imagem" : "assets/images/PulmaoPleura.png", 
       "explicacaoPulmao": "A pleura é uma membrana dupla e fina que reveste cada pulmão e também o interior da parede torácica. Ela é formada por duas camadas: a pleura visceral, que cobre o pulmão diretamente, e a pleura parietal, que recobre a parede interna do tórax. A função da pleura é proteger o pulmão e permitir que ele se movimente suavemente durante a respiração, sem atrito com a parede torácica."
     },
     {
       "id": 8,
+      "imagem" : "assets/images/PulmaoFluidoPleural.png", 
       "explicacaoPulmao": "O fluido pleural é um líquido lubrificante que se encontra entre as duas camadas da pleura (visceral e parietal). Esse fluido tem como função reduzir o atrito durante os movimentos respiratórios. Ele também ajuda a manter os pulmões “aderidos” à parede do tórax, criando uma pressão negativa que facilita a inspiração. Quando há desequilíbrio na quantidade desse fluido, podem surgir problemas respiratórios, como o derrame pleural."
     }
   ],
